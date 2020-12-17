@@ -44,12 +44,20 @@
 
 
 # 参考
-+ https://zhuanlan.zhihu.com/p/58817407
-+ https://developer.aliyun.com/article/710474
-+ https://zhuanlan.zhihu.com/p/92165837
-+ https://www.zhihu.com/column/c_1088434703387643904
++ [跨平台渲染引擎之路：拨云见日](https://zhuanlan.zhihu.com/p/58817407)
++ [大比拼 | 下一代高性能跨平台UI渲染引擎](https://developer.aliyun.com/article/710474)
++ [游戏引擎中的渲染管线](https://zhuanlan.zhihu.com/p/92165837)
++ [跨平台渲染引擎之路](https://www.zhihu.com/column/c_1088434703387643904)
 + [CMake 入门实战](https://www.hahack.com/codes/cmake)
 + [HTML解析库Gumbo简单使用记录](https://www.cnblogs.com/oloroso/p/9667642.html)
++ [Flutter 实战入门](http://laomengit.com/flutter/widgets/widgets_structure.html)
++ [手把手教你实现一个浏览器引擎](https://segmentfault.com/a/1190000021736006)
++ [手把手教你Vue从零撸一个迷你版MVVM框架](https://blog.csdn.net/u012486840/article/details/104972736)
++ [将 Vue 渲染到嵌入式液晶屏](https://zhuanlan.zhihu.com/p/333179202)
++ [手把手教你打造一款轻量级canvas渲染引擎](https://segmentfault.com/a/1190000021297495?_ea=27021986)
++ [由 FlexBox 算法强力驱动的 Weex 布局引擎](https://www.jianshu.com/p/d085032d4788)
++ [将你的 Virtual dom 渲染成 Canvas](https://zhuanlan.zhihu.com/p/39886896)
++ [60 FPS on the mobile web](https://zhuanlan.zhihu.com/p/39886896)
 
 # 安装环境
 + https://code.visualstudio.com/docs/cpp/config-mingw
