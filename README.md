@@ -44,8 +44,9 @@
 
 
 # 参考
++ [跨平台图形渲染引擎bgfx分析](https://www.codenong.com/cs105888060/)
++ [大比拼 | 下一代高性能跨平台UI渲染引擎](https://zhuanlan.zhihu.com/p/75660948)
 + [跨平台渲染引擎之路：拨云见日](https://zhuanlan.zhihu.com/p/58817407)
-+ [大比拼 | 下一代高性能跨平台UI渲染引擎](https://developer.aliyun.com/article/710474)
 + [游戏引擎中的渲染管线](https://zhuanlan.zhihu.com/p/92165837)
 + [跨平台渲染引擎之路](https://www.zhihu.com/column/c_1088434703387643904)
 + [CMake 入门实战](https://www.hahack.com/codes/cmake)
@@ -57,7 +58,10 @@
 + [手把手教你打造一款轻量级canvas渲染引擎](https://segmentfault.com/a/1190000021297495?_ea=27021986)
 + [由 FlexBox 算法强力驱动的 Weex 布局引擎](https://www.jianshu.com/p/d085032d4788)
 + [将你的 Virtual dom 渲染成 Canvas](https://zhuanlan.zhihu.com/p/39886896)
-+ [60 FPS on the mobile web](https://zhuanlan.zhihu.com/p/39886896)
++ [60 FPS on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web)
+
+## android 相关参考
++ [Android中使用NativeActivity进行APP开发](https://blog.csdn.net/qq_21071977/article/details/77878252)
 
 # 安装环境
 + https://code.visualstudio.com/docs/cpp/config-mingw
