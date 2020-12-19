@@ -8,19 +8,19 @@
 
 ### Framework层
 
-> 工作线程，js实现。包含整个Framework内容
+> ui线程，js实现。包含整个Framework内容
 
 + 基础组件: text,image,list,scroll
-+ 引入前端技术：virtual dom，例如vue
++ 引入前端技术：dom 和 style，例：Vue等dsl技术
 + 动画
 + 手势
 + 键盘/鼠标等输入
 
 ### Engine
 
-> 渲染线程，跑在主线程，C++实现。负责bgfx调用，布局计算等
+> 渲染线程，一般也是主线程，C++实现。负责bgfx调用，布局计算等。另外还有一个io线程，进行图片的编解码,上传图片数据到gpu，和主线程共享gpu context
 
-+ 布局
++ 布局: 不同的是android的底层实现，将这部分划分在Framework中，而flutter划分到engin层，目前觉得划分在Framework中最利于实现，但是性能未必最优
 + 调用bgfx渲染
 
 ### 嵌入层
@@ -76,7 +76,7 @@
 + [CMake 入门实战](https://www.hahack.com/codes/cmake)
 + [HTML解析库Gumbo简单使用记录](https://www.cnblogs.com/oloroso/p/9667642.html)
 + [Flutter 实战入门](http://laomengit.com/flutter/widgets/widgets_structure.html)
-+ [手把手教你实现一个浏览器引擎](https://segmentfault.com/a/1190000021736006)
++ [手把手教你实现一个浏览器引擎](https://zhuanlan.zhihu.com/p/106494297)
 + [手把手教你Vue从零撸一个迷你版MVVM框架](https://blog.csdn.net/u012486840/article/details/104972736)
 + [将 Vue 渲染到嵌入式液晶屏](https://zhuanlan.zhihu.com/p/333179202)
 + [手把手教你打造一款轻量级canvas渲染引擎](https://segmentfault.com/a/1190000021297495?_ea=27021986)
