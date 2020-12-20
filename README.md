@@ -84,6 +84,7 @@
 + [将你的 Virtual dom 渲染成 Canvas](https://zhuanlan.zhihu.com/p/39886896)
 + [60 FPS on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web)
 + [A Custom Renderer for Vue 3](https://vuejs-course.com/blog/a-custom-renderer-for-vue-3)
++ [Writing a Custom Renderer - Vue.js 3](https://lachlan-miller.me/articles/vue-3-pdf-customer-renderer)
 
 ## android 相关参考
 
