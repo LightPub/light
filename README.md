@@ -83,6 +83,7 @@
 + [由 FlexBox 算法强力驱动的 Weex 布局引擎](https://www.jianshu.com/p/d085032d4788)
 + [将你的 Virtual dom 渲染成 Canvas](https://zhuanlan.zhihu.com/p/39886896)
 + [60 FPS on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web)
++ [A Custom Renderer for Vue 3](https://vuejs-course.com/blog/a-custom-renderer-for-vue-3)
 
 ## android 相关参考
 
