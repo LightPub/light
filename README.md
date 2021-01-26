@@ -85,6 +85,7 @@
 + [60 FPS on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web)
 + [A Custom Renderer for Vue 3](https://vuejs-course.com/blog/a-custom-renderer-for-vue-3)
 + [Writing a Custom Renderer - Vue.js 3](https://lachlan-miller.me/articles/vue-3-pdf-customer-renderer)
++ [适用于 Linux 的 Windows 子系统安装指南 (Windows 10)](https://docs.microsoft.com/zh-cn/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
 
 ## android 相关参考
 
